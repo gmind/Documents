@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="990"
+   height="765"
+   id="svg3073"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="card-1-front.svg">
+  <defs
+     id="defs3075" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0182338"
+     inkscape:cx="-173.43527"
+     inkscape:cy="585.63958"
+     inkscape:current-layer="g3991"
+     id="namedview3077"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="in"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="811.11111,67.5"
+       id="guide3082" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="45,856.25"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-243.75,542.36111"
+       id="guide6627" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-63.888889,526.38889"
+       id="guide6629" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3079">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="BG"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-225)">
+    <g
+       id="g3172"
+       transform="translate(-501.53685,143.90165)"
+       inkscape:tile-cx="157.5"
+       inkscape:tile-cy="562.43055"
+       inkscape:tile-w="180"
+       inkscape:tile-h="315.13889"
+       inkscape:tile-x0="67.499997"
+       inkscape:tile-y0="404.86111">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3466"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"><flowRegion
+           id="flowRegion3468"><rect
+             id="rect3470"
+             width="195.43645"
+             height="157.62589"
+             x="175.7946"
+             y="55.53878"
+             style="font-weight:bold;writing-mode:tb-rl;-inkscape-font-specification:Calibri Bold" /></flowRegion><flowPara
+           id="flowPara3472" /></flowRoot>      <g
+         transform="matrix(0,1,-1,0,482.80159,79.72559)"
+         id="g3991">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="rect3161"
+           width="315.13889"
+           height="180"
+           x="67.5"
+           y="45" />
+        <path
+           style="fill:#c8c8c8;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+           d="m -243.75,169.74296 0.0147,-103.61572 180,0 -0.153629,103.61572 -179.861111,0 z"
+           id="path6633"
+           inkscape:connector-curvature="0"
+           transform="matrix(0,-1,1,0,1.37276,-18.73526)" />
+        <g
+           transform="matrix(0,-0.6171756,0.6171756,0,67.340503,247.05696)"
+           id="g3792">
+          <text
+             xml:space="preserve"
+             style="font-size:80.74908447px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold"
+             x="181.17896"
+             y="75.927704"
+             id="text2992"
+             sodipodi:linespacing="91.000003%"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:91.00000262%;text-anchor:middle;font-family:Berlin Sans FB Demi;-inkscape-font-specification:Berlin Sans FB Demi Bold"
+               sodipodi:role="line"
+               id="tspan2994"
+               x="181.17896"
+               y="75.927704">BREAK</tspan><tspan
+               id="tspan3460"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:91.00000262%;text-anchor:middle;font-family:Berlin Sans FB Demi;-inkscape-font-specification:Berlin Sans FB Demi Bold"
+               sodipodi:role="line"
+               x="181.17896"
+               y="149.40938">CARD!</tspan></text>
+        </g>
+        <flowRoot
+           transform="matrix(0,-1,1,0,184.64825,365.5171)"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+           id="flowRoot3474"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3476"><rect
+               style="writing-mode:lr-tb"
+               y="-4.8599253"
+               x="153.20647"
+               height="191.9991"
+               width="155.91635"
+               id="rect3478" /></flowRegion><flowPara
+             style="font-size:12px;text-align:justify;text-anchor:start"
+             id="flowPara3480">Use this card to take one (1) fifteen minute break, any time.</flowPara><flowPara
+             id="flowPara3482"
+             style="font-size:12px;text-align:justify;text-anchor:start"><flowSpan
+   id="flowSpan3484"
+   style="font-weight:bold;-inkscape-font-specification:Calibri Bold">DIRECTIONS:</flowSpan> Apply card when and where break is desired. Once active, you should relax and breathe. <flowSpan
+   id="flowSpan3486"
+   style="font-style:oblique;-inkscape-font-specification:Calibri Oblique">Focus on your breath and do not judge.</flowSpan>  If your mind drifts, just return to your breath; count if it helps. When break is complete, give this card to someone else who needs it or leave it somewhere for the next person to discover.</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:3.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -243.75,169.74296 179.861071,0"
+           id="path6747"
+           inkscape:connector-curvature="0"
+           transform="matrix(0,-1,1,0,1.37276,-18.73526)" />
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       id="use4430"
+       width="990"
+       height="765"
+       transform="matrix(-1,0,0,-1,701.26477,898.62723)" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,701.26476,1213.6272)"
+       id="use4432"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,521.26477,898.62724)"
+       id="use4434"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,521.26477,1213.6272)"
+       id="use4436"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,341.26477,898.62724)"
+       id="use4438"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,341.26477,1213.6272)"
+       id="use4440"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,161.26477,898.62724)"
+       id="use4442"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,161.26477,1213.6272)"
+       id="use4444"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,-18.735266,898.62724)"
+       id="use4446"
+       width="990"
+       height="765" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3172"
+       xlink:href="#g3172"
+       transform="matrix(-1,0,0,-1,-18.735266,1213.6272)"
+       id="use4448"
+       width="990"
+       height="765" />
+  </g>
+</svg>
