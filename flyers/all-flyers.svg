@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 "
-   sodipodi:docname="flyers-4.svg"
+   sodipodi:docname="all-flyers.svg"
    style="display:inline">
   <defs
      id="defs4">
@@ -201,10 +201,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="587.53871"
-     inkscape:cy="456.61969"
+     inkscape:cx="423.253"
+     inkscape:cy="352.01754"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="746"
@@ -451,6 +451,17 @@
          x="11.818315"
          id="tspan3150-2"
          sodipodi:role="line">google &quot;MINDFULNESS IN PLAIN ENGLISH&quot;, free online book</tspan></text>
+    <text
+       transform="matrix(0.97950436,-0.20142294,0.20142294,0.97950436,0,0)"
+       id="text3569"
+       y="850.93762"
+       x="235.23434"
+       style="font-size:19.88286781px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni"
+       xml:space="preserve"><tspan
+         y="850.93762"
+         x="235.23434"
+         id="tspan3571"
+         sodipodi:role="line">http://gmind.github.com</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
